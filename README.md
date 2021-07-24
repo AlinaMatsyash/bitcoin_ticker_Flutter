@@ -1,17 +1,9 @@
-# bitcointicker
+# bitcoin_ticker
 
 A new Flutter application.
 
-## Getting Started
+https://user-images.githubusercontent.com/40697299/126872423-b4284f42-fb47-4798-86e2-cbeeb13f1bd4.mov
 
-This project is a starting point for a Flutter application.
+![Screenshot_1627138631](https://user-images.githubusercontent.com/40697299/126872424-1265b38e-6d2d-4b6a-a527-b53274c0ba19.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# bitcoin_ticker_Flutter
+![Screenshot_1627138683](https://user-images.githubusercontent.com/40697299/126872428-7b09a646-bb7b-409c-9c27-18554b26d648.png)
